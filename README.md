@@ -1,3 +1,3 @@
 # raspbian-static-libs
 
-checkout [wiki](wiki/Home)
+checkout [wiki](../../wiki/Home)
